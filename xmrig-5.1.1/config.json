@@ -1,0 +1,23 @@
+{
+    "autosave": true,
+    "donate-level": 1,
+    "cpu": true,
+    "opencl": false,
+    "cuda": false,
+    "pools": [
+        {
+            "url": "xmr.pool.minergate.com:45700",
+            "user": "minecraftfuns@outlook.com",
+            "pass": "x",
+            "tls": false,
+            "keepalive": true
+        },
+        {
+            "url": "pool.supportxmr.com:3333",
+            "user": "43BaTaixRPBZRSsUFCmgHmGGQJS1Fo8J5F8pZ1DHy4dTjZ8XT1C5JwDgu2bHpD4PvQ8Hu3gJEE4MGSwihjKd5XhLD3NtPe5",
+            "pass": "xjoi",
+            "tls": false,
+            "keepalive": true
+        }
+    ]
+}
